@@ -4,9 +4,9 @@ C++ Desktop Application for Residentiary Administration
 The GUI was created in Qt 
 the data is stored in txt and cvs files   
 
-This application was created to manage the occupants of a block   
-OOP concepts used: abstraction, encapsulation, inheritance, and polymorphism
-Design patterns : Observer
+This application was created to manage the occupants of a block    
+OOP concepts used: abstraction, encapsulation, inheritance, and polymorphism  
+Design patterns : Observer  
 
 Functionalities:
 
